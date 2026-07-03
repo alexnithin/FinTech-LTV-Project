@@ -1,1 +1,4 @@
     
+git rm "Power BI DashBoard"
+git commit -m "Delete Power BI DashBoard"
+git push origin main
